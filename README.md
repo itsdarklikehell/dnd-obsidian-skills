@@ -1,6 +1,13 @@
 # Dnd Obsidian Skills
 AI agent skills for creating and managing DnD campaigns in Obsidian, including vault structure, Obsidian syntax, DnD wiki linking, statblocks, callouts, and campaign organization.
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/dnd-obsidian-skills/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Required Obsidian Plugins
 
 - [Claudian](obsidian://show-plugin?id=realclaudian) (realclaudian)
