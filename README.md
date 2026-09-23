@@ -5,7 +5,7 @@ AI agent skills for creating and managing DnD campaigns in Obsidian, including v
 
 ## Development Visualization
 
-<video src="https://github.com/itsdarklikehell/dnd-obsidian-skills/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+<video src="https://github.com/itsdarklikehell/dnd-obsidian-skills/raw/main/gource.mp4" controls width="100%"></video>
 
 *Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Required Obsidian Plugins
